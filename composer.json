@@ -12,13 +12,11 @@
     ],
     "require": {
         "yiisoft/yii2": "*",
-        "php": ">=5.3.2",
-        "yiisoft/yii2-bootstrap": "*",
-        "emotionloop/visualcaptcha": "*"
+        "php": ">=5.3.2"
     },
     "autoload": {
         "psr-4": {
-            "rklandesverband\\visualcaptcha\\": ""
+            "rklandesverband\\visualcaptcha\\": "src/public/"
         }
     }
 }

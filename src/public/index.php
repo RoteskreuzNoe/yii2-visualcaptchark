@@ -16,7 +16,7 @@ $app = new \Slim\Slim(
       'mode' => 'production'
     )
 );
-
+die('asdf');
 require_once __DIR__ . '/../app/app.php';
 
 $app->run();

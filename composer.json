@@ -3,7 +3,7 @@
     "description": "Visualcaptcha",
     "type": "yii2-extension",
     "keywords": ["yii2","extension"," visualcaptcha"],
-    "minimum-stability": "dev",
+    "minimum-stability": "1.0.0",
     "license": "BSD-3-Clause",
     "authors": [
         {

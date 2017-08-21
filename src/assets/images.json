@@ -1,0 +1,150 @@
+[
+    {
+        "name": "das Flugzeug",
+        "path": "airplane.png"
+    },
+    {
+        "name": "die Ballone",
+        "path": "balloons.png"
+    },
+    {
+        "name": "die Kamera",
+        "path": "camera.png"
+    },
+    {
+        "name": "das Auto",
+        "path": "car.png"
+    },
+    {
+        "name": "die Katze",
+        "path": "cat.png"
+    },
+    {
+        "name": "den Sessel",
+        "path": "chair.png"
+    },
+    {
+        "name": "die Büroklammer",
+        "path": "clip.png"
+    },
+    {
+        "name": "die Uhr",
+        "path": "clock.png"
+    },
+    {
+        "name": "die Wolke",
+        "path": "cloud.png"
+    },
+    {
+        "name": "den Computer",
+        "path": "computer.png"
+    },
+    {
+        "name": "den Umschlag",
+        "path": "envelope.png"
+    },
+    {
+        "name": "das Auge",
+        "path": "eye.png"
+    },
+    {
+        "name": "die Flagge",
+        "path": "flag.png"
+    },
+    {
+        "name": "den Ordner",
+        "path": "folder.png"
+    },
+    {
+        "name": "den Fuß",
+        "path": "foot.png"
+    },
+    {
+        "name": "das Diagram",
+        "path": "graph.png"
+    },
+    {
+        "name": "das Haus",
+        "path": "house.png"
+    },
+    {
+        "name": "den Schlüssel",
+        "path": "key.png"
+    },
+    {
+        "name": "das Blatt",
+        "path": "leaf.png"
+    },
+    {
+        "name": "die Glühbirne",
+        "path": "light-bulb.png"
+    },
+    {
+        "name": "das Schloss",
+        "path": "lock.png"
+    },
+    {
+        "name": "die Lupe",
+        "path": "magnifying-glass.png"
+    },
+    {
+        "name": "den Mann",
+        "path": "man.png"
+    },
+    {
+        "name": "den Notenschlüssel",
+        "path": "music-note.png"
+    },
+    {
+        "name": "die Hose",
+        "path": "pants.png"
+    },
+    {
+        "name": "den Stift",
+        "path": "pencil.png"
+    },
+    {
+        "name": "den Drucker",
+        "path": "printer.png"
+    },
+    {
+        "name": "den Roboter",
+        "path": "robot.png"
+    },
+    {
+        "name": "die Schere",
+        "path": "scissors.png"
+    },
+    {
+        "name": "die Sonnenbrille",
+        "path": "sunglasses.png"
+    },
+    {
+        "name": "das Etikett",
+        "path": "tag.png"
+    },
+    {
+        "name": "den Baum",
+        "path": "tree.png"
+    },
+    {
+        "name": "den LKW",
+        "path": "truck.png"
+    },
+    {
+        "name": "das T-Shirt",
+        "path": "t-shirt.png"
+    },
+    {
+        "name": "den Regenschirm",
+        "path": "umbrella.png"
+    },
+    {
+        "name": "die Frau",
+        "path": "woman.png"
+    },
+    {
+        "name": "die Weltkugel",
+        "path": "world.png"
+    }
+]
